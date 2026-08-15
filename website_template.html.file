@@ -1,0 +1,89 @@
+<html>
+	<head>
+		<title>Name</title>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<style>
+		.fa {
+ 			padding: 40px;
+  			font-size: 30px;
+  			width: 50px;
+  			text-align: center;
+  			text-decoration: none;
+  			border-radius: 50%;
+		}
+
+		.fa:hover {
+    			opacity: 0.7;
+		}
+
+		a { color:blue; font-weight: bold; }
+		
+		.container {
+	    		max-width: 800px; /* Set a max width for your content */
+	    		margin: 0 auto; /* Center the container */
+	    		padding: 20px; /* Space inside the container */
+	    		background-color: #d0d0d0; /* Change to your desired color */
+	    		box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow */
+		}
+		</style>
+	</head>
+	<body>
+	<div class="container">
+		<h2> Name </h2>
+		Email: <a href="mailto: ucid@njit.edu" style="text-decoration: none" target="_blank">ucid [at] njit [dot] edu </a> <br />
+		Office: Cullimore ROOM NO
+		<h2><strong> <img alt="Name" src="imagefile.png" width="130" hspace="200" height="155" align="center"> </strong>  </h2>
+		<br>
+		<h3>About Me </h3>
+		<p>
+		Short Bio
+		</p>
+
+		<h3> Research </h3>
+		<h4> Publications </h4>
+		List publications here if you have them. Comment out line if you dont.
+		
+		<h4> Talks </h4>
+		NJIT Math Dept Summer Student Talks <br>
+		Author Name: <br> <a href="nameoftalk.pdf" style="text-decoration: none" target="_blank"> Name of Talk </a>
+		<br />
+		<h4> Projects </h4>
+		
+
+		<h3> Education </h3>
+		
+		<font size="+1"> Ph.D. Mathematical Sciences, Applied Mathematics </font>
+		<p style="margin-left: 25px;"> New Jersey Institute of Technology, Expected MONTH YEAR </p>
+		
+
+		<font size="+1"> Name of Degree</font> <br />
+		<p style="margin-left: 25px;"> Name of School </p>
+		
+		<h3> Positions </h3>
+		<font size="+1"> Graduate Research Assistant </font>
+		<p style="margin-left: 25px;"> <a href="https://sites.google.com/site/tpnguyen242/home" style="text-decoration: none" target="_blank">Professor Thi-Phong Nguyen </a>(NJIT), Jan 2024 - Present </p>
+		
+		<font size="+1"> Graduate Teaching Assistant </font>
+                <p style="margin-left: 25px;"> MATLAB and Math Tutoring, Jan 2024 - May 2024 </p>
+
+		<font size="+1"> Undergraduate Research Assistant </font>
+		<p style="margin-left: 25px;"> <a href="https://scholar.google.com/citations?user=GtD22ZUAAAAJ&hl=en" style="text-decoration: none" target="_blank">Professor Brittany Froese Hamfeldt</a> (NJIT), May 2022 - May 2023 </p>
+		<br />
+
+		<h3> Poster Presentations </h3>
+
+		<font size="+1"> Name of Conference at Name of School, Month Year </font>
+			<p> <a href="posterfile.pdf" style="text-decoration: none"> Title of Poster </a> </p>
+		<br />
+		<br />
+
+		<p style="text-align:center">
+		<a href="linktoyourgithub" class="fa fa-github"> </a>
+		<a href="linktoyourlinkedin" class="fa fa-linkedin"></a>
+		<a href="linktoyourgooglescholar" class="fa fa-google"> </a>
+		<a href="linktoyourorcid" class="fa fa-orcid"> <img src="orcid.svg" width="35" hspace="-50"/></a>
+		</p>
+
+	</div>
+	</body>
+</html>
